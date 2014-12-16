@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>F46FAF56-89AB-4EE6-844B-46E27A1550D1</string>
+	<key>IDESourceControlProjectName</key>
+	<string>FlappyBirdClone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>557C0F85ECBC5424DBB21912FFE12C1090D7D528</key>
+		<string>https://github.com/daisuke310vvv/how-to-build-a-game-like-flappy-bird-with-xcode-and-sprite-kit.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>FlappyBirdClone.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>557C0F85ECBC5424DBB21912FFE12C1090D7D528</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/daisuke310vvv/how-to-build-a-game-like-flappy-bird-with-xcode-and-sprite-kit.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>557C0F85ECBC5424DBB21912FFE12C1090D7D528</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>557C0F85ECBC5424DBB21912FFE12C1090D7D528</string>
+			<key>IDESourceControlWCCName</key>
+			<string>how-to-build-a-game-like-flappy-bird-with-xcode-and-sprite-kit</string>
+		</dict>
+	</array>
+</dict>
+</plist>
